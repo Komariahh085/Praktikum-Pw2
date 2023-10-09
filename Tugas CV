@@ -1,0 +1,40 @@
+DOCTYPE html>
+
+<html>
+    <head>
+        <meta
+    </head>
+    <body>
+        <h1>Curriculum Vitae</h1>
+        <hr></hr>
+        <p>Tugas Web Programming <br />Pak Sirojul Munir </p>
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNnDURLuC9v4js1jpeiWodLWapqU63SCOGug&amp;usqp=CAU" width=150 alt="" >
+        <Table border="h1"></Table>
+        <tr>
+            <h1 colspan="2">Biodata Diri</h1>
+            </tr>
+            <tr>
+                <p>Nama: Siti Komariah Hoirunnisa</p>
+                <p>Tempat Tanggal Lahir: Bogor,14 Agustus 2005</p>
+                <p>Umur: 18 tahun</p>
+                <p>Alamat: Kp.cipeundeuy Rt02/Rw03 Desa Kiarasari Kec.Sukajaya Kab.Bogor</p>
+                <p>Agama: Islam</p>
+                <p>Jenis Kelamin: Perempuan</p>
+                <p>No.Telpon: 085772132064</p>
+                <p>Email: stkomariah698@gmail.com</p>
+                <p>Status: Belum Menikah</p>
+                <p>Nim: 0110223155</p>
+                <h2>Pengalaman Pendidikan</h2>
+                <ul>
+                    <li>2011-2017: SDN Cipeundeuy 02</li>
+                    <li>2017-2020: MTS Al Amanah</li>
+                    <li>2020-2023: SMK Insan Madani</li>
+                    <li>2023-sekarang: STT Nurul Fikri </li>
+                </ul>
+                </tr>
+                <tr>
+
+                  
+                </tr>
+            </tr>
+        </tr>
